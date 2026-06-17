@@ -1,0 +1,6 @@
+{
+  "name": "Click 'n Go",
+  "description": "Click 'n Go is a premium digital wallet, fintech and mobile banking super app designed for Bangladesh, offering BDT & USD accounts, secure eKYC, instant transfers, merchant payments, virtual cards, utility bills, rewards, and multi-role dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
